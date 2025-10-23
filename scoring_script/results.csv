@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1,roc_auc
+DNN,0.725,0.5294,0.75,0.6207,0.7789
+ResNet,0.565,0.3608,0.5833,0.4459,0.6311
